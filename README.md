@@ -3,6 +3,10 @@ Peer-to-Peer Messaging and File Sharing App
 
 This Python app enables peer-to-peer messaging and file sharing over a local network. It provides a simple interface for users to exchange messages and files directly between peers.
 
+Attempt1 Folder : First client & server files just to test out what our project is going on do 
+ProjectCode.py: Our final product 
+
+
 Features:
 - Peer-to-Peer Messaging: Send and receive messages between connected peers.
 - File Sharing: Send and receive files directly between peers.
